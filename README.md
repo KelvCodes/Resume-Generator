@@ -44,7 +44,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 
 3️⃣ **Live Preview** – See your resume and cover letter update in real time. 👀  
 
-5. **Enjoy** – Listen, vibe, and share your favorite tunes! 🎧🎵 
+
    
 
 ---
