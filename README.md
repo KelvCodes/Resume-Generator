@@ -45,7 +45,8 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 3️⃣ **Live Preview** – See your resume and cover letter update in real time. 👀  
 
 4️⃣ **Customize it** – Add a profile picture, social links, and certifications. 🏆 
-   
+
+5️⃣ **Download as PDF** – Save your resume & cover letter with a single click! 📥  
 
 ---
 
