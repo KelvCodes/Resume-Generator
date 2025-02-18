@@ -10,7 +10,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 ## 🌟 Features  
 - ✅ **📄 Instant Resume & Cover Letter Generation** – Get a polished document in seconds. . 
 -  ✅ **🤖 AI Suggestions** – Smart recommendations for skills, experience, and cover letter content.
-- **🎨 Sleek UI** – A stylish and responsive design.  
+- .  
 - **📱 Mobile Friendly** – Works smoothly on all devices.
 - **⚡ Instant Load** – Fast and optimized for a seamless experience. 
 
