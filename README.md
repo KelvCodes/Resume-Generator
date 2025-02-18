@@ -43,7 +43,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 2️⃣ **AI Suggestions** – Click "Get AI Suggestions" for content recommendations. 🤖  
 
 3️⃣ **Live Preview** – See your resume and cover letter update in real time. 👀  
-4. **Control Playback** – Use pause, next, and volume controls for a better experience. 🎛️
+
 5. **Enjoy** – Listen, vibe, and share your favorite tunes! 🎧🎵 
    
 
