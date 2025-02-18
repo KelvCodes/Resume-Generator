@@ -12,7 +12,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 -  ✅ **🤖 AI Suggestions** – Smart recommendations for skills, experience, and cover letter content.
 - ✅ **🎨 Sleek UI** – A stunning, modern, and responsive interface..  
 - ✅ **🌙 Dark Mode** – Switch between light & dark themes.
-- 
+- ✅ **🖼️ Profile Picture Upload** – Personalize your resume with your photo. 
 ---      
 ## 🎬 Live Demo 
 
