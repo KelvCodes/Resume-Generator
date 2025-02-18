@@ -38,7 +38,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 ---
 
 ## 🚀 How to Use 
-1.  **Open the App** – Load `index.html` in your browser. 🌐 
+1.  1️⃣ **Fill in your details** – Enter your name, email, work experience, and skills. ✍️
 2. **Search for a Song** – Enter a song title or artist in the search bar. 🔍
 3. **Play Music** – Click the play button to enjoy seamless streaming! ▶️🎶
 4. **Control Playback** – Use pause, next, and volume controls for a better experience. 🎛️
