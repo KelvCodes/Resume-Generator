@@ -13,7 +13,8 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 - ✅ **🎨 Sleek UI** – A stunning, modern, and responsive interface..  
 - ✅ **🌙 Dark Mode** – Switch between light & dark themes.
 - ✅ **🖼️ Profile Picture Upload** – Personalize your resume with your photo.
-- ✅ **🌍 Social Links** – Add LinkedIn, GitHub, and portfolio links.  
+- ✅ **🌍 Social Links** – Add LinkedIn, GitHub, and portfolio links.
+- ✅ **📥 Download as PDF** – High-quality resume & cover letter export.  
 ---      
 ## 🎬 Live Demo 
 
