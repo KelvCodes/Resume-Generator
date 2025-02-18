@@ -12,8 +12,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 -  ✅ **🤖 AI Suggestions** – Smart recommendations for skills, experience, and cover letter content.
 - ✅ **🎨 Sleek UI** – A stunning, modern, and responsive interface..  
 - ✅ **🌙 Dark Mode** – Switch between light & dark themes.
-- **⚡ Instant Load** – Fast and optimized for a seamless experience. 
-
+- 
 ---      
 ## 🎬 Live Demo 
 
