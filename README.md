@@ -54,7 +54,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/music-player.git
+   git clone https://github.com/yourusername/resume-generator.git
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
