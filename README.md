@@ -39,6 +39,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 
 ## 🚀 How to Use 
 1️⃣ **Fill in your details** – Enter your name, email, work experience, and skills. ✍️
+
 2️⃣ **AI Suggestions** – Click "Get AI Suggestions" for content recommendations. 🤖  
 3. **Play Music** – Click the play button to enjoy seamless streaming! ▶️🎶
 4. **Control Playback** – Use pause, next, and volume controls for a better experience. 🎛️
