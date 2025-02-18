@@ -15,7 +15,8 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 - ✅ **🖼️ Profile Picture Upload** – Personalize your resume with your photo.
 - ✅ **🌍 Social Links** – Add LinkedIn, GitHub, and portfolio links.
 - ✅ **📥 Download as PDF** – High-quality resume & cover letter export.
-- ✅ **📱 Fully Responsive** – Works flawlessly on mobile & desktop.    
+- ✅ **📱 Fully Responsive** – Works flawlessly on mobile & desktop.
+    
 ---      
 ## 🎬 Live Demo 
 
