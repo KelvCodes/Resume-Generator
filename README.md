@@ -1,7 +1,8 @@
 
 # 📄MakeMeACV
 
-  A **modern and interactive** music player built with **HTML, CSS, and JavaScript**, utilizing an API to fetch and play songs dynamically. Enjoy seamless music playback with a sleek, responsive interface! 🚀  
+  A **powerful** and **user-friendly** web app that helps job seekers **create professional resumes & cover letters instantly**! 📝💼  
+Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and **PDF export** – all in a sleek, responsive interface. 🚀  
 
 
 ---
