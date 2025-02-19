@@ -64,7 +64,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 
 ## 🤝 Contributing  
 
-Want to make this meme generator even better? We’d love your help! 💡  
+Want to make web app even better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
