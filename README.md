@@ -63,7 +63,7 @@ Featuring **AI-powered suggestions**, **real-time previews**, **dark mode**, and
 
 ## 🤝 Contributing  
 
-Want to make Make web app even better? We’d love your help! 💡  
+Want to make MakeC web app even better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
